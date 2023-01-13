@@ -43,7 +43,7 @@ ul {
 .sidebar {
   width: 300px;
   background: royalblue;
-  flex: 1;
+  flex-shrink: 0;
 }
 
 .card {
